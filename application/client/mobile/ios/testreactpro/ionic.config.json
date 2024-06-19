@@ -1,0 +1,7 @@
+{
+  "name": "testreactpro",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
